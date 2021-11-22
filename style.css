@@ -1,0 +1,24 @@
+input[type=button] {
+    padding: 32px;
+    margin: 10px;
+    font-size: 16px;
+    align-items: center;
+}
+
+body {
+    text-align: center;
+}
+
+#reset{
+    background: cornflowerblue;
+    color: white;
+    border-radius: 15px;
+    border-color: cornflowerblue;
+    font-weight: 700;
+    padding: 16px 16px 16px 16px;
+
+}
+
+h2 {
+    margin-top: 25px;
+}
